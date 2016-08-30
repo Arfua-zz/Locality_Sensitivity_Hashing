@@ -10,3 +10,5 @@ Here we
 LSH performs an efficient neighbor search by randomly partitioning all reference data points into different bins. 
 We will implement method of LSH known as random binary projection, which approximates cosine distance. 
 There are other variants we could use for other choices of distance metrics.
+
+We use pandas, numpy, scikit, scipy, matplotlib
